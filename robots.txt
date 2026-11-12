@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://artplayz.github.io/windows-site/sitemap.xml
